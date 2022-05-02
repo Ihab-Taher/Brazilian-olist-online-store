@@ -1,0 +1,5 @@
+Q1 - Which are the top city and states in terms of no. of customers
+A1 - See olist_customers_dataset_investigation.py and Top 7 city and state in terms of number of customers.png
+
+Q2 - Is there a correlation or dependency between the customer city and state and the products purchased
+A2 - See olist_orders_datasets_investigation.py and conditional probability statistics.xlsx
